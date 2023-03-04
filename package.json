@@ -5,12 +5,14 @@
   "dependencies": {
     "@hotwired/stimulus": "^3.2.1",
     "@hotwired/turbo-rails": "^7.3.0",
+    "@reduxjs/toolkit": "^1.9.3",
     "@typescript-eslint/eslint-plugin": "^5.53.0",
     "@typescript-eslint/parser": "^5.54.0",
     "esbuild": "^0.17.11",
     "eslint": "^8.34.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
+    "react": "^18.2.0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.17.10",
